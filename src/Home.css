@@ -1,0 +1,34 @@
+div .home{
+    background-image: url(./Asset/bg_desktop.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 800px;
+    display: flex;
+    flex-direction: column;
+}
+
+div .home-text{
+    max-width: 525px;
+}
+
+div.home-text h3{
+    color: black;
+}
+
+div .home-text p {
+    color: black;
+}
+
+div .home-banner img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    padding: 10px 10px;
+    border-radius: 25px;
+    background-color: white;
+    box-shadow: 4px 4px 10px;
+    max-width: 50%;
+    height: auto;
+}

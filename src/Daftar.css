@@ -1,0 +1,9 @@
+div .card-panel{
+    max-width: 400px;
+    height: 100%;
+    margin: 50px auto;
+}
+  
+div .card-panel h5{
+    text-align: center;
+}

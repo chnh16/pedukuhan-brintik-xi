@@ -1,0 +1,63 @@
+div .fasilitas{
+    display: inline;
+}
+
+div .fasilitas h1{
+    text-align: center;
+}
+
+div .fasilitas p{
+    text-align: center;
+}
+
+div .lap_voli img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding: 10px 10px;
+    border-radius: 25px;
+    background-color: white;
+    box-shadow: 4px 4px 10px;
+    max-width: 50%;
+    height: auto;
+}
+
+div .mushola img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding: 10px 10px;
+    border-radius: 25px;
+    background-color: white;
+    box-shadow: 4px 4px 10px;
+    max-width: 50%;
+    height: auto;
+}
+
+div .pos_ronda img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding: 10px 10px;
+    border-radius: 25px;
+    background-color: white;
+    box-shadow: 4px 4px 10px;
+    max-width: 50%;
+    height: auto;
+}
+
+div .sembada img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding: 10px 10px;
+    border-radius: 25px;
+    background-color: white;
+    box-shadow: 4px 4px 10px;
+    max-width: 50%;
+    height: auto;
+}
